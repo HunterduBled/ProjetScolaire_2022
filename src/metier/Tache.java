@@ -1,0 +1,5 @@
+package metier;
+
+public enum Tache {
+	ADDUSR ,ENV_MSG , CREER_FIL, OPEN_CREER_FIL , RET,FINI,CON ,DEC, GET_GRP, CLOSE, RECV_FIL,READ,NOTREAD, START, REC_MSG
+}
